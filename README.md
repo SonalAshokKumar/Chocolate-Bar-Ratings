@@ -3,12 +3,12 @@ Chocolate Bar Ratings Analysis - Python
 
 I used Python to wrangle and analyze a dataset on chocolate bar ratings, which includes expert evaluations on over 1,700 chocolate bars. This report communicates my analysis process, results, and recommendations based on key business questions related to chocolate bar attributes and ratings.
 
-Objective
+### Objective
 
 The chocolate industry is constantly evolving, with consumers showing distinct preferences based on various product attributes.
 This analysis seeks to uncover patterns in chocolate ratings, identify the factors influencing higher ratings, and segment chocolates based on origin, cocoa percentage, and bean variety to provide insights into consumer preferences.
 
-Key Questions
+### Key Questions
 
 What factors have the strongest correlation with higher chocolate bar ratings?
 
@@ -18,12 +18,12 @@ How does the cocoa percentage relate to expert ratings?
 
 What are the trends over time in chocolate bar ratings?
 
-Data
+### Data
 
 chocolate_ratings: This dataset includes columns for region of origin, cocoa percentage (1-100), bean type, and a rating scale from 1 to 5.
 Missing values exist in some columns, which were handled as part of the data wrangling process.
 
-Tools
+### Tools
 
 The analysis was conducted using Python with the following libraries:
 Pandas: for data manipulation
@@ -36,7 +36,7 @@ Scipy: for statistical analysis
 
 Warnings: to suppress unnecessary warnings
 
-Folders
+### Folders
 
 Project Management: Contains project brief and data dictionary.
 
@@ -48,6 +48,6 @@ Analysis: Contains visualizations used to communicate key findings.
 
 Sent to Client: Final report presented in PPT, detailing insights and recommendations.
 
-Resources
+### Resources
 
 Note: The Chocolate Bar Ratings dataset is publicly available and has been formatted for educational use in data analysis.
