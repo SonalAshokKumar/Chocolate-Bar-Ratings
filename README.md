@@ -1,4 +1,4 @@
-# Chocolate-Bar-Ratings
+# Chocolate-Bar-Ratings--Python--Tableau
 Chocolate Bar Ratings Analysis - Python
 
 I used Python to wrangle and analyze a dataset on chocolate bar ratings, which includes expert evaluations on over 1,700 chocolate bars. This report communicates my analysis process, results, and recommendations based on key business questions related to chocolate bar attributes and ratings.
