@@ -51,3 +51,10 @@ Sent to Client: Final report presented in PPT, detailing insights and recommenda
 ### Resources
 
 Note: The Chocolate Bar Ratings dataset is publicly available and has been formatted for educational use in data analysis.
+
+https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
+
+
+Storyboard
+
+This Tableau Storyboard does not contain every step of analysis. For details, refer to Jupyter notebooks in the scripts section. Click Here
