@@ -58,3 +58,5 @@ https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
 Storyboard
 
 This Tableau Storyboard does not contain every step of analysis. For details, refer to Jupyter notebooks in the scripts section. Click Here
+https://public.tableau.com/app/profile/sonal.ashokkumar/viz/ChocolateBarRatings_17295402346180/RecommendationsNextsteps?publish=yes
+
