@@ -27,18 +27,27 @@ Tools
 
 The analysis was conducted using Python with the following libraries:
 Pandas: for data manipulation
+
 Numpy: for mathematical operations
+
 Seaborn & Matplotlib: for data visualizations
+
 Scipy: for statistical analysis
+
 Warnings: to suppress unnecessary warnings
 
 Folders
 
 Project Management: Contains project brief and data dictionary.
+
 Data: Split into subfolders for Original Data and Cleaned Data, containing raw data and processed datasets, respectively.
+
 Scripts: Jupyter notebooks containing the code for data wrangling, analysis, and visualization.
+
 Analysis: Contains visualizations used to communicate key findings.
+
 Sent to Client: Final report presented in PPT, detailing insights and recommendations.
 
 Resources
+
 Note: The Chocolate Bar Ratings dataset is publicly available and has been formatted for educational use in data analysis.
